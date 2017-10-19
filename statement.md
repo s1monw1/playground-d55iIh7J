@@ -157,7 +157,7 @@ c.  We use the `application` plugin for building an executable JAR
 > main method. It is being compiled to "StarterKt" and so this has to be
 > my Main-Class
 
-**build.gradle.**
+**build.gradle.kts**
 
 ``` kotlin
 import org.gradle.jvm.tasks.Jar
